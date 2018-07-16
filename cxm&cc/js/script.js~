@@ -474,22 +474,22 @@ $(window).load(function() {
              bg_music.src="music/1.mp3";
           break;
           case "#!/page_About":
-            bg_music.src="music/6.mp3";
+            bg_music.src="music/2.mp3";
           break;
           case "#!/page_Talk":
-            bg_music.src="music/2.mp3";
+            bg_music.src="music/3.mp3";
           break;
           case "#!/page_Message":
             bg_music.src="music/4.mp3";
           break;
           case "#!/page_Blog":
-            bg_music.src="music/5.mp3";
-          break;
-          case "#!/page_Time":
             bg_music.src="music/9.mp3";
           break;
+          case "#!/page_Time":
+            bg_music.src="music/a.mp3";
+          break;
           case "#!/":
-            bg_music.src="music/3.mp3";
+            bg_music.src="music/a.mp3";
           break;
           default :
             bg_music.src="music/a.mp3";
