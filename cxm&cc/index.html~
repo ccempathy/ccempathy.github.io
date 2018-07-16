@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>花瓣表白</title>
+<title>小仙女的网页~~~</title>
 <meta name="keywords" content="在乎你，WQW我很在乎你">
 <meta name="description" content="  这里是个人的表白页面 ">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -165,7 +165,7 @@ function checkhtml5()
 						<img src="images/bg_content.png" alt="" class="bg_cont">
 						<span class="back"><img src="images/nav1.png" alt="" usemap="#back"><a href="index.html#close">返回</a></span>
 						<div class="pad">
-							<img  src="images/cxm/呆.jpg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
+							<img  src="images/cxm/吓.jpg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
 						</div>
 					</li>
 					<li id="page_About">
@@ -242,7 +242,7 @@ function checkhtml5()
             <img src="images/bg_content.png" alt="" class="bg_cont">
 						<span class="back"><img src="images/nav4.png" alt="" usemap="#back"><a href="index.html#close">返回</a></span>
 						<div class="pad">
-							<img  src="images/cxm/food.jpg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
+							<img  src="images/cxm/food.jpeg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
 						</div>
 
 					</li>
