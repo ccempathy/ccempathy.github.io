@@ -242,7 +242,7 @@ function checkhtml5()
             <img src="images/bg_content.png" alt="" class="bg_cont">
 						<span class="back"><img src="images/nav4.png" alt="" usemap="#back"><a href="index.html#close">返回</a></span>
 						<div class="pad">
-							<img  src="images/cxm/food.jpeg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
+							<img  src="images/cxm/food.jpg" style="width:370px;height:370px;padding:10px 10px 10px 10px"></img>
 						</div>
 
 					</li>
